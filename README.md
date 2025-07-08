@@ -14,7 +14,7 @@ A simple, secure message encryption and decryption tool with a user-friendly int
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/secure-encoder.git
+git clone https://github.com/Shadow-Howl-Sec/secure-encoder.git
 cd secure-encoder
 
 Auther : Shubham Pandhare
